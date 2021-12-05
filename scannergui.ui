@@ -53,7 +53,7 @@
      <string>Start Scan</string>
     </property>
    </widget>
-   <widget class="QTextBrowser" name="resuktWindow">
+   <widget class="QTextBrowser" name="resultWindow">
     <property name="geometry">
      <rect>
       <x>30</x>
